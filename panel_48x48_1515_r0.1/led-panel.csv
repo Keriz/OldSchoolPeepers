@@ -1,0 +1,19 @@
+"Source:","C:\git\glatt\led-panel\panel.py"
+"Date:","08/08/2021 12:39 AM"
+"Tool:","SKiDL (1.0.0)"
+"Generator:","C:\Program Files\KiCad\bin\scripting\plugins\bom_csv_grouped_by_value.py"
+"Component Count:","3"
+
+"Individual Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet"
+"","","U1","74HC595","74xx:74HC595","glabs_misc:TSSOP-16_slim","~"
+"","","U2","74HC595","74xx:74HC595","glabs_misc:TSSOP-16_slim","~"
+"","","U3","74HC595","74xx:74HC595","glabs_misc:TSSOP-16_slim","~"
+
+
+
+"Collated Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet"
+"1","3","U1, U2, U3","74HC595","74xx:74HC595","glabs_misc:TSSOP-16_slim","~"
