@@ -9,7 +9,7 @@ The schematic has been programmed in Python using SKiDL.
 ### Front
 
 ![FrontPanel](frontledpanel.png)
-![Routing](routing.png)
-### Back
+![Routing](routing.png) (WIP)
+### Back (Not done)
 
 ![BackPanel](backledpanel.png)
